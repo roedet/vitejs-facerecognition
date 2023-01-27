@@ -1,5 +1,4 @@
 import React, { Component } from 'react';
-import './style.css';
 import Login from './components/Login/Login';
 import Logo from './components/Logo/Logo';
 import ImageLinkForm from './components/ImageLinkForm/ImageLinkForm';
@@ -31,7 +30,7 @@ class App extends Component {
           onSubmit={this.onSubmit}
         />
         <Rank />
-        <h1>Hello StackBlitz!</h1>
+        <h1>Hello StackBlithhhhhz!</h1>
       </div>
     );
   }
